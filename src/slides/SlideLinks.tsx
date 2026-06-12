@@ -4,11 +4,11 @@ import { Button, Card } from '../components/ui';
 
 const LINKS = [
   {
-    label: 'Documentation', url: 'https://anumukul.github.io/Documentation-ILex-Protocol-Hook/',
+    label: 'Documentation', url: 'https://documentation-i-lex-protocol-hook.vercel.app/',
     icon: BookOpen, gradient: 'from-purple-600 to-purple-700',
   },
   {
-    label: 'Live Demo', url: 'https://ilex-protocol.vercel.app',
+    label: 'Live Demo', url: 'https://i-lex-protocol-hook-p.vercel.app/',
     icon: Play, gradient: 'from-emerald-600 to-emerald-700',
   },
   {

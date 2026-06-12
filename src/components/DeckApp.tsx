@@ -71,7 +71,7 @@ export const DeckApp: React.FC = () => {
           </div>
 
           <div className="hidden sm:flex items-center gap-2">
-            <Button variant="ghost" onClick={() => window.open('https://anumukul.github.io/Documentation-ILex-Protocol-Hook/', '_blank')} className="text-xs">
+            <Button variant="ghost" onClick={() => window.open('https://documentation-i-lex-protocol-hook.vercel.app/', '_blank')} className="text-xs">
               <BookOpen size={14} /> Docs
             </Button>
             <Button variant="ghost" onClick={() => window.open('https://github.com/anumukul/ILex-Protocol-UHI9', '_blank')} className="text-xs">
